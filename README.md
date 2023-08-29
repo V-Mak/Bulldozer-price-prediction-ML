@@ -31,7 +31,7 @@ The evaluation metric for this competition is the RMSLE (root mean squared log e
 
 Sample submission files can be downloaded from the data page. Submission files should be formatted as follows:
 
-Have a header: "SalesID,SalePrice"
-Contain two columns
-SalesID: SalesID for the validation set in sorted order
-SalePrice: Your predicted price of the sale
+* Have a header: "SalesID,SalePrice"
+* Contain two columns
+* SalesID: SalesID for the validation set in sorted order
+* SalePrice: Your predicted price of the sale
